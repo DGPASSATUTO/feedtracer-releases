@@ -1,9 +1,9 @@
 {
   "product": "dgptech.feedtracer-data-bridge.windows-x64",
-  "version": "0.7.9",
-  "filename": "FeedTracerDataBridge-Windows-x64-0.7.9.zip",
-  "sizeBytes": 143390742,
-  "sha256": "998275363b40eda4ba5e4d410ac55275fa6f7d18815f32b78f429c14c0adc550",
-  "downloadUrl": "https://github.com/DGPASSATUTO/feedtracer-releases/releases/download/v0.7.9/FeedTracerDataBridge-Windows-x64-0.7.9.zip",
-  "signature": "0qKlRgk11BoeQS7c62Iyp5Kq4a6KbhAyWjj0nKuWpyt7soVwgwQk/0jegPI22io56E7JoZwkyEWO/MU1rq+6DQ=="
+  "version": "0.8.0",
+  "filename": "FeedTracerDataBridge-Windows-x64-0.8.0.zip",
+  "sizeBytes": 143393299,
+  "sha256": "899445762781b2e8951a360cd085a814b97b91d951b81f760c9faba058e259ca",
+  "downloadUrl": "https://github.com/DGPASSATUTO/feedtracer-releases/releases/download/v0.8.0/FeedTracerDataBridge-Windows-x64-0.8.0.zip",
+  "signature": "6E5DM4t56DPnzX3cNCb7XStaXJbK+ptcBdxhrMTKPXK9ykD/j0o3+o9KJAWuW7y3ZcOOKUL2EMF0X5S2B2hpBw=="
 }
